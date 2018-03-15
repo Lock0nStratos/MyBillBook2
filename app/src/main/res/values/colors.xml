@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorMoneyIn">#42c4ac</color>
+    <color name="colorMainBackground">#0fd3c1</color>
+    <color name="colorIconEat">#FDBE5D</color>
+    <color name="colorIconTrans">#9ddc5b</color>
+    <color name="colorIconCloth">#a483d6</color>
+    <color name="colorIconDaily">#9ce6ea</color>
+    <color name="colorIconGame">#fd826a</color>
+    <color name="colorIconSalary">#3ed1b0</color>
+    <color name="colorIconGift">#a67757</color>
+    <color name="colorIconTou">#7676c6</color>
+    <color name="colorIconRed">#e54c5e</color>
 </resources>
